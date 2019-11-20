@@ -18,7 +18,7 @@
 Тестовый датасет, на котором мы оценим решнение, будет больше похож на `val.csv`.
 При это в датасетах могут встречаться (как и, к сожалению, в любых размечаемых данных) некорректные метки.
 
-Данные находятся по ссылке `https://drive.google.com/drive/folders/1anZ1bxi5WhPmBlCBnYBYzo4foSgGSee5?usp=sharing`. 
+Данные находятся по ссылке https://drive.google.com/drive/folders/1anZ1bxi5WhPmBlCBnYBYzo4foSgGSee5?usp=sharing. 
 
 Во время запуска вашего решения файл с тестовыми данными будет распологаться по пути `/task-for-hiring-data/test_data.csv`
 
